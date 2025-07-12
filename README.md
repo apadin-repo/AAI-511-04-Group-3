@@ -1,6 +1,7 @@
 # Composer Classification Using Deep Learning
 
 **Project By: Christopher Mendoza, Greg Moore, and Alexander Padin**
+
 MSAAI-511-Group-3 | July 2025  
 Graduate Students, Masters in Applied Artificial Intelligence
 University of San Diego
