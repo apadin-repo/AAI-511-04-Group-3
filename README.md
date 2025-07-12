@@ -39,6 +39,8 @@ The dataset consists of:
 
 Each score is labeled with the correct composer to support supervised learning.
 
+Dateset should be retrieved from: https://www.kaggle.com/datasets/blanderbuss/midi-classic-music
+
 ---
 
 ## Methodology
